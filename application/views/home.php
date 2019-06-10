@@ -50,7 +50,7 @@
 					<div class="col-md-2" style="margin-left:30px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/11.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/2.jpg" alt="#">
 							</div>
 							<h2>School Prayer</h2>
 							<p>I would be true, for there are those who trust me,<br>
