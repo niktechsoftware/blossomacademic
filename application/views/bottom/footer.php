@@ -69,7 +69,7 @@
 										<!-- End Social -->
 										<!-- Copyright -->
 										<div class="copyright">
-											<p>© Copyright 2019. All Rights Reserved by Blossom Academic School.<a href="http://niktechsoftware.com/"> NIKTECH SOFTWARE SOLUTIONS</a></p>
+											<p>Copyright © 2019 Niktech Software Solutions| All Rights Reserved <a href="http://niktechsoftware.com/"> NIKTECH SOFTWARE SOLUTIONS</a></p>
 										</div>
 										<!--/ End Copyright -->
 									</div>
