@@ -48,7 +48,7 @@
         <div class="container-fluid">
                 <div class="row">
                         <div class="logo">
-                            <a href="index-2.html"><img style="width:1363px; max-height: 100px;" src="<?php echo base_url();?>assets/images/logo1.jpg" alt="#"></a>
+                            <a href="index-2.html"><img style="width:1363px; max-height: 100px;" src="<?php echo base_url();?>assets/images/blos.jpg" alt="#"></a>
                         </div>
                     </div>
                     </div>
