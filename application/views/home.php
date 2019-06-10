@@ -50,7 +50,7 @@
 					<div class="col-md-2" style="margin-left:30px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/slides/11.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/11.png" alt="#">
 							</div>
 							<h2>School Prayer</h2>
 							<p>I would be true, for there are those who trust me,<br>
@@ -64,7 +64,7 @@
 					<div class="col-md-2" style="margin-left:40px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/slides/22.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/22.png" alt="#">
 							</div>
 							<h2>मेरा दीपक</h2>
 							<p>मेरा दीपक युग-युग जले <br>
@@ -78,7 +78,7 @@
 					<div class="col-md-2" style="margin-left:40px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/slides/33.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/33.png" alt="#">
 							</div>
 							<h2>School Bandana</h2>
 							<p>"Tumhi ho maata pita tumhi ho,<br>
@@ -98,7 +98,7 @@
 					<div class="col-md-2" style="margin-left:40px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/slides/44.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/44.png" alt="#">
 							</div>
 							<h2>The Meaning Of Lyrics Is</h2>
 							<p> त्वमेव माता च पिता त्वमेव <br>
@@ -110,7 +110,7 @@
 					<div class="col-md-2" style="margin-left:40px;">
 						<div class="single-feature">
 							<div class="feature-head">
-								<img src="http://blossomacademic.in/assets/img/slides/55.png" alt="#">
+								<img src="http://blossomacademic.in/assets/img/55.png" alt="#">
 							</div>
 							<h2>सरस्वती बन्दना</h2>
 							<p>या कुंदेंदु तुषार हार धवला या शुभ्र वस्त्रावृता।<br>
