@@ -84,7 +84,7 @@
                                     <li><a href="https://www.schoolerp-niktech.in/school/index.php/homeController">LOGIN2</a></li>
                                     <li><a href="<?php echo base_url();?>index.php/welcome/exam_result">Exam RESULT</a></li>
                                     <li><a href="<?php echo base_url();?>index.php/welcome/contact">CONTACT</a></li>
-                                    <li><a href="http://localhost/blossom/admin">ADMIN LOGIN</a></li>
+                                    <li><a href="http://localhost/blossomacademic/admin">ADMIN LOGIN</a></li>
                                 </ul>
                                 <!-- End Main Menu -->
                             </div> 
