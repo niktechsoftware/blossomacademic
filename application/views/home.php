@@ -142,83 +142,24 @@
 				</div>
 				<div class="row" style="text-align:center;">
 					<div class="col-12">
-						<div class="course-slider">
-							<!-- Single Course -->
-							<div class="single-course">
+					<?php 
+                      $dt=$this->db->get("notice");
+                     if($dt->num_rows()>0){
+                    foreach($dt->result() as $data):
+                    ?>
+						      <div class="single-course">
 								<div class="single-content">
-									<h4>School Prayer</h4>
-									<p>I would be true, for there are those who trust me,<br>
-			                        I would be pure, for there are those who care,<br>
-			                        I would be strong, for there is much to dare,<br>
-			                        I would be friend of all the foe the friendless.<br>
-			                        I would be humable, for i know my weakness<br>
-			                        I would lookup and laugh and love and live. </p>
+									<h4>Notice Board</h4>
+									<p> <?php echo $data->subject; ?><br/>
+                                     <?php echo $data->message; ?></p>
 								</div>
 							</div>
-							<!--/ End Single Course -->
-							<!-- Single Course -->
-							<div class="single-course">
-								<div class="single-content">
-									<h4>मेरा दीपक</h4>
-									<p>मेरा दीपक युग-युग जले <br>
-	                      			युग-युग प्रकाश फैलाये <br>
-	                      			इंतना मांगू हे भगवान <br>
-	                      			आधी आये या तूफान <br>
-	                      			मेरा दीपक बुझ ना पाये <br>
-	                      			युग-युग प्रकाश फैलाये </p>
-								</div>
-							</div>
-							<!--/ End Single Course -->
-							<!-- Single Course -->
-							<div class="single-course">
-								<div class="single-content">
-									<h4>School Bandana</h4>
-									<p>"Tumhi ho maata pita tumhi ho,<br>
-		                          tumhi ho bandhu sakha tumhi ho<br>
-		                          tumhi ho saathi tumhi saharay<br>
-		                          koie na apana siva tumharay<br>
-		                          tumhi ho naiyaa tunhi khevaiya <br>
-		                          tumhi hi bandhu sakha tumhi ho<br>
-		                          jo khil sake na, wo phool hum hai <br>
-		                          tumharay charanon ke dhul hum hai<br>
-		                          daya ke drishti sada hi rakhana <br>
-		                          tumhi ho bandhu sakha tumhi ho <br>
-		                          Tumhi ho maata pita tumhi ho,<br>
-		                          tumhi ho bandhu sakha tumhi ho </p>
-								</div>
-							</div>
-							<!--/ End Single Course -->
-							<!-- Single Course -->
-							<div class="single-course">
-								<div class="single-content">
-									<h4>The Meaning Of Lyrics Is</h4>
-									<p>त्वमेव माता च पिता त्वमेव <br>
-		                     	 त्वमेव बन्धुश्च सखा त्वमेव <br>
-		                     	 त्वमेव विद्या द्रविणम् त्वमेव <br>
-		                      	 त्वमेव सर्वम् मम देव देव: </p>
-								</div>
-							</div>
-							<!--/ End Single Course -->
-							<!-- Single Course -->
-							<div class="single-course">
-								<div class="single-content">
-									<h4>सरस्वती बन्दना</h4>
-									<p> या कुंदेंदु तुषार हार धवला या शुभ्र वस्त्रावृता।<br>
-									या वीणा वर दण्ड मंडित करा या श्वेत पद्मासना।<br>
-									या ब्रह्माच्युत्त शंकर: प्रभृतिर्भि देवै सदा वन्दिता।<br>
-									सा माम पातु सरस्वती भगवती नि:शेष जाड्या पहा।  </p>
-								</div>
-							</div>
-							<!--/ End Single Course -->
-						</div>
+							<?php endforeach; } else { echo "there is no any notice";}?>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!--/ End Courses -->	
-	
-
-		
 		<!-- Fun Facts -->
 		<div class="fun-facts overlay" data-stellar-background-ratio="0.5">
 			<div class="container">

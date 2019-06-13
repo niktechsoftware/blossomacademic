@@ -9,7 +9,7 @@
                         		<p>&nbsp;&nbsp;&nbsp;Website</p>
                         		<span class="arrow"></span>
                         	</a>
-                            <!-- <li><a href="<?php echo base_url();?>apanel/noticeBoard">NOTICE BOARD</a></li> -->
+                            <li><a href="<?php echo base_url();?>apanel/noticeBoard">NOTICE BOARD</a></li> 
                             <li><a href="<?php echo base_url();?>apanel/gallery">GALLERY</a></li>
                               <li><a href="<?php echo base_url();?>apanel/contact">CONTACT</a></li>
                             <ul class="sub-menu">

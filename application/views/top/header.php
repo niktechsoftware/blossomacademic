@@ -36,7 +36,6 @@
                         <ul class="content">
                             <li><i class="fa fa-phone"></i>05497-268037</li>
                             <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope-o"></i>info@blossomschool.in</a></li>
-                            <li><i class="fa fa-clock-o"></i>Opening: 10:00am - 5:00pm</li>
                         </ul>
                         <!-- End Contact -->
                     </div>
