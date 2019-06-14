@@ -33,7 +33,7 @@
 							<!-- Newsletter -->
 							<div class="single-widget newsletter">
 								<h2>About Blossom</h2>
-									<p>Blossom academic School is an English Midium Co-educational school for the boys and girl conducted by the Governmenting of SHARADA SHIKSHA Society following C.B.S.E pattern <a href="http://blossomacademic.in/index.php/welcome/about_us"><ul>Read more...</ul></a> </p>
+									<p>Blossom academic School is an English Medium Co-educational school for the boys and girls conducted by the Governmenting of SHARADA SHIKSHA Society following C.B.S.E pattern.</p>
 								</div>
 							<!--/ End Newsletter -->
 						</div>
@@ -59,13 +59,13 @@
 								<div class="row">
 									<div class="col-12">
 										<!-- Social -->
-										<ul class="social">
+										<!-- <ul class="social">
 											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/blossomacademic.in/"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 											<li><a href="#"><i class="fa fa-youtube"></i></a></li>
-										</ul>
+										</ul> -->
 										<!-- End Social -->
 										<!-- Copyright -->
 										<div class="copyright">

@@ -150,7 +150,7 @@
 						      <div class="single-course">
 								<div class="single-content">
 									<h4>Notice Board</h4>
-									<p> <?php echo $data->subject; ?><br/>
+									<p><mark><?php echo $data->subject; ?></mark><br/>
                                      <?php echo $data->message; ?></p>
 								</div>
 							</div>

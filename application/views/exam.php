@@ -1,1 +1,1 @@
-<p align="center" class="cttt"><img src="http://blossomacademic.in/assets/img/comwing-soon.png" width="355" height="201" alt="comingsoon" /></p>
+<p style="text-align:center;" class="cttt"><img src="<?php echo base_url();?>assets/img/coming soon.png" width="355" height="201" alt="comingsoon" /></p>

@@ -64,9 +64,9 @@
                                     <li><a href="<?php echo base_url();?>">HOME</a></li>
                                     <li><a href="#">ABOUT US<i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown">
-                                        <li><a href="<?php echo base_url();?>index.php/welcome/director_massage">Director Massage</a></li>
-                                            <li><a href="<?php echo base_url();?>index.php/welcome/manager_massage">Manager Massage</a></li>
-                                            <li><a href="<?php echo base_url();?>index.php/welcome/principal_massage">Principal Massage</a></li>
+                                        <li><a href="<?php echo base_url();?>index.php/welcome/director_massage">Director Message</a></li>
+                                            <li><a href="<?php echo base_url();?>index.php/welcome/manager_massage">Manager Message</a></li>
+                                            <li><a href="<?php echo base_url();?>index.php/welcome/principal_massage">Principal Message</a></li>
                                             <li><a href="<?php echo base_url();?>index.php/welcome/vision_mission">Vision Mission</a></li>
                                         </ul>
                                     </li>
@@ -80,7 +80,7 @@
                                     </li>
                                     <li><a href="<?php echo base_url();?>index.php/welcome/gallery">GALLERY</a></li>
                                     <li><a href="http://blossomacademic.in/blossom/homeController/">LOGIN</a></li>
-                                    <li><a href="https://www.schoolerp-niktech.in/school/index.php/homeController">LOGIN2</a></li>
+                                    <li><a href="https://schoolerp-niktech.in/school/index.php/homeController">LOGIN2</a></li>
                                     <li><a href="<?php echo base_url();?>index.php/welcome/exam_result">Exam RESULT</a></li>
                                     <li><a href="<?php echo base_url();?>index.php/welcome/contact">CONTACT</a></li>
                                     <li><a href="http://localhost/blossomacademic/admin">ADMIN LOGIN</a></li>
