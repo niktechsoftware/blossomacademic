@@ -51,6 +51,7 @@
 			</div>
 			<!--/ End Footer Top -->
 			<!-- Footer Bottom -->
+			
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="row">
