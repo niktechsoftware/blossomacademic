@@ -289,9 +289,9 @@ Version:	1.0
 	height: 650px;
 	border: none;
 }
-.home-slider .single-slider:before{
+/* .home-slider .single-slider:before{
 	opacity:0.7;
-}
+} */
 .home-slider .single-slider .slider-text {
 	margin: 171px 0 0;
 }

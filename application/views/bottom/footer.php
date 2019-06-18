@@ -70,7 +70,7 @@
 										<!-- End Social -->
 										<!-- Copyright -->
 										<div class="copyright">
-											<p>Copyright © 2019 Niktech Software Solutions| All Rights Reserved <a href="http://niktechsoftware.com/"> NIKTECH SOFTWARE SOLUTIONS</a></p>
+											<p>Copyright &copy; 2019 <a href="http://niktechsoftware.com/"> Nictech Software Solutions</a> All Rights Reserved. </p>
 										</div>
 										<!--/ End Copyright -->
 									</div>
