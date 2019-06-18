@@ -2,8 +2,8 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<hgroup class="page-head">                                    		
-		      	<h2 style="margin-top:50px;"> <span>Principal</span> G.S Lal. Shrivastva</h2>
-		       	<h3 class="education">Ex- Army Officer</h3>              
+		      	<h2 style="margin-top:50px;"><mark>Principal G.S Lal. Shrivastva</mark></h2>
+		       	<h3 class="education"><mark>Ex- Army Officer</mark></h3>              
 		    </hgroup>
 			<hr>
 		    <div>

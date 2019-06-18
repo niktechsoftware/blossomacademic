@@ -3,7 +3,7 @@
 				<div class="col-lg-12">
 		
 					<form role="form" class="register-form" action="<?php echo base_url();?>index.php/welcome/contactus_value" method="post">
-						<h2 style="text-align:center; margin-top:50px;">Contact us <small>get in touch with us by filling form below</small></h2>
+						<h2 style="text-align:center; margin-top:50px;"><mark>Contact us <small>get in touch with us by filling form below</small></mark></h2>
 						<hr class="colorgraph">
 						<div class="row">
 							<div class="col-lg-6">

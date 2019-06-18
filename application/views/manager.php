@@ -3,7 +3,7 @@
 		<div class="col-lg-12">
 			<hgroup class="page-head">                                    		
 			    <h2 style="margin-top:50px;"> <mark>Manager Er Krishna Nand Rai</mark></h2>
-			    <h3 class="education">B.Tech (Machanical), M.B.A</h3>                    
+			    <h3 class="education"><mark>B.Tech (Machanical), M.B.A</mark></h3>                    
 			</hgroup>
             <hr>
 		<div id="container" class="clearfix">        

@@ -2,8 +2,8 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<hgroup class="page-head">                                    		
-		      	<h2 style="margin-top:50px;"> <mark>Blossom Academic School</h2>
-		        <h3 class="education">Vision And Mission</mark></h3>              
+		      	<h2 style="margin-top:50px;"> <mark>Blossom Academic School</mark></h2>
+		        <h3 class="education"><mark>Vision And Mission</mark></h3>              
 		    </hgroup>
             <hr>
 		    <div>

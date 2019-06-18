@@ -1,7 +1,7 @@
 <div class="container">
 		<div class="row">
 			<div class="col-lg-12" style="margin-top:10px; padding-bottom:20px;">    		
-                    <h2 style="margin-top:50px;" class="text-center">Blossom Academic<span> School Images</span></h2>
+                    <h2 style="margin-top:50px;" class="text-center"><mark>Blossom Academic School Images</mark></h2>
             <hr>
                 </div>
 				</div>

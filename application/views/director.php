@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<hgroup class="page-head">                                    		
-		      	<h2 style="margin-top:50px;"> <span>Director </span> Sudarshan Rai</h2>              
+		      	<h2 style="margin-top:50px;"> <mark>Director Sudarshan Rai</mark></h2>              
 		    </hgroup>
             <hr>
 			<div>
