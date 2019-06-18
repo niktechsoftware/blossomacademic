@@ -142,19 +142,19 @@
 				</div>
 				<div class="row" style="text-align:center;">
 					<div class="col-12">
+					<div class="single-course">
+								<div class="single-content">
+									<h4>Notice Board</h4>
 					<?php 
                       $dt=$this->db->get("notice");
                      if($dt->num_rows()>0){
                     foreach($dt->result() as $data):
                     ?>
-						      <div class="single-course">
-								<div class="single-content">
-									<h4>Notice Board</h4>
 									<p><mark><?php echo $data->subject; ?></mark><br/>
                                      <?php echo $data->message; ?></p>
-								</div>
-							</div>
 							<?php endforeach; } else { echo "there is no any notice";}?>
+							</div>
+							</div>
 					</div>
 				</div>
 			</div>
